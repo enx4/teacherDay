@@ -184,7 +184,7 @@ section.container:target > form.flip {
   box-sizing: border-box; }
 
 #lid .flip .front, section.container > form.flip .front {
-  background: beige url("../images/bg.png");
+  background: beige url("https://enx4.github.io/teacherDay/bg.png");
   border: 1px #eae1d5 solid;
   box-shadow: inset 0 0 10px 1px rgba(255, 255, 255, 0.6), 0 2px 3px -2px rgba(0, 0, 0, 0.6);
   padding: 20px 30px;
@@ -193,8 +193,8 @@ section.container:target > form.flip {
 
 section.container > form.flip > .front {
   font-size: 1.25em;
-  background: beige url("../images/bg.png");
-  background: url("../images/stamp.jpg") no-repeat 450px 20px, url("../images/bg.png");
+  background: beige url("https://enx4.github.io/teacherDay/bg.png");
+  background: url("../images/stamp.jpg") no-repeat 450px 20px, url("https://enx4.github.io/teacherDay/bg.png");
   padding: 120px 20px 20px 40%;
 
   border: 1px #eae1d5 solid; }
